@@ -1,2 +1,2 @@
 welcome to SCM with GIT
-sec version
+sec version command
